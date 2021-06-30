@@ -16,7 +16,7 @@
 % See also: NLVOPS, NEWOPS, SELOPS, CREATEOPTIONS, OPSPLOTS
 %
 % Copyright: Jussara V. Roque, 2019.
-% Checked by JVR: 28/05/2019
+% Checked by JVR: 30/06/2021
 %
 % J.V. Roque, W. Cardoso, L.A. Peternelli, and R.F. Teófilo.
 % Comprehensive new approaches for variable selection using ordered
